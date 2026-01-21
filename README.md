@@ -1,11 +1,17 @@
-# 🏥 Patient Health Prediction System
+THIS APP IS BEING DEPLOYED IN STREAMLIT , YOU CAN ACCESS THIS APP USING THE FOLLOWING LINK
+
+https://patient-health-prediction.streamlit.app/
+
+
+
+#  Patient Health Prediction System
 
 A Machine Learning–based system that predicts patient health risk using clinical and lifestyle data.  
 This project demonstrates an end-to-end ML workflow including data preprocessing, model training, evaluation, and deployment using a web application.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Early prediction of patient health risks (such as cardiovascular disease) can help in timely medical intervention.  
 This project uses supervised machine learning techniques to analyze patient records and predict health outcomes.
@@ -17,7 +23,7 @@ The system allows users to:
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. **Data Collection**
    - Dataset: `CVD_cleaned.csv`
